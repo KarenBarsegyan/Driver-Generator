@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=GND Pin=R22_1-2
+Removed Pin From Net: NetName=GND Pin=R25_1-2
+Change Component Designator: OldDesignator=*5_1 NewDesignator=*4
+Change Component Designator: OldDesignator=C30_1 NewDesignator=C25
+Change Component Designator: OldDesignator=C31_1 NewDesignator=C27
+Change Component Designator: OldDesignator=C32_1 NewDesignator=C28
+Change Component Designator: OldDesignator=L6_1 NewDesignator=L4
+Change Component Designator: OldDesignator=L7_1 NewDesignator=L5
+Change Component Designator: OldDesignator=Q3_1 NewDesignator=Q2
+Change Component Designator: OldDesignator=R21_1 NewDesignator=R16
+Change Component Designator: OldDesignator=R22_1 NewDesignator=R17
+Change Component Designator: OldDesignator=R23_1 NewDesignator=R18
+Change Component Designator: OldDesignator=R24_1 NewDesignator=R20
+Change Component Designator: OldDesignator=R25_1 NewDesignator=R19
+Added Pin To Net: NetName=Net*4_1 Pin=*4-1
+Added Pin To Net: NetName=Net*4_2 Pin=*4-2
+Added Pin To Net: NetName=HO_B Pin=*4-3
+Added Pin To Net: NetName=PHASE_B Pin=*4-4
+Added Pin To Net: NetName=Net*4_5 Pin=*4-5
+Added Pin To Net: NetName=Net*4_6 Pin=*4-6
+Added Pin To Net: NetName=GND_B Pin=*4-7
+Added Pin To Net: NetName=LO_B Pin=*4-8
+Added Pin To Net: NetName=GND_B Pin=*4-9
+Added Pin To Net: NetName=Net*4_1 Pin=C25-1
+Added Pin To Net: NetName=GND_B Pin=C25-2
+Added Pin To Net: NetName=Net*4_2 Pin=C27-1
+Added Pin To Net: NetName=PHASE_B Pin=C27-2
+Added Pin To Net: NetName=SENSE_B Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=Net*4_1 Pin=L4-1
+Added Pin To Net: NetName=12V Pin=L4-2
+Added Pin To Net: NetName=GND Pin=L5-1
+Added Pin To Net: NetName=GND_B Pin=L5-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND_B Pin=Q2-2
+Added Pin To Net: NetName=Net*4_5 Pin=Q2-3
+Added Pin To Net: NetName=Net*4_5 Pin=R16-1
+Added Pin To Net: NetName=FET_B_H Pin=R16-2
+Added Pin To Net: NetName=Net*4_6 Pin=R17-1
+Added Pin To Net: NetName=FET_B_L Pin=R17-2
+Added Pin To Net: NetName=SENSE_B Pin=R18-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R19-1
+Added Pin To Net: NetName=FET_B_L Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=SENSE_B Pin=R20-2
+Added Member To Class: ClassName=driver_sapog_compact Member=Component *4 UCC27211DDA
+Added Member To Class: ClassName=driver_sapog_compact Member=Component C25 0.1
+Added Member To Class: ClassName=driver_sapog_compact Member=Component C27 0.1
+Added Member To Class: ClassName=driver_sapog_compact Member=Component C28 2.2nF
+Added Member To Class: ClassName=driver_sapog_compact Member=Component L4 22uH
+Added Member To Class: ClassName=driver_sapog_compact Member=Component L5 22uH
+Added Member To Class: ClassName=driver_sapog_compact Member=Component Q2 BFS17A
+Added Member To Class: ClassName=driver_sapog_compact Member=Component R16 330R
+Added Member To Class: ClassName=driver_sapog_compact Member=Component R17 330R
+Added Member To Class: ClassName=driver_sapog_compact Member=Component R18 9.1k
+Added Member To Class: ClassName=driver_sapog_compact Member=Component R19 2.2k
+Added Member To Class: ClassName=driver_sapog_compact Member=Component R20 560R
+Added Room: Name=driver_sapog_compact

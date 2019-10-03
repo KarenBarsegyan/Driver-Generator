@@ -1,0 +1,62 @@
+Added Component: Designator=P4(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=VCC Pin=P4-2
+Added Member To Class: ClassName=Power_toll Member=Component *1 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *2 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *3 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *4 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *5 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *6 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *7 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *8 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *9 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *10 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *11 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *12 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component C1 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C2 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C3 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C4 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C5 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C6 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C7 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C8 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C9 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C10 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C11 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C12 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C13 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C14 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C15 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C16 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C17 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C18 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C19 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C20 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C21 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C22 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C23 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C24 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C26 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C27 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C28 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C29 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component C30 1uF 100V
+Added Member To Class: ClassName=Power_toll Member=Component P2 Header 4
+Added Member To Class: ClassName=Power_toll Member=Component P4 Header 2
+Added Member To Class: ClassName=Power_toll Member=Component R1 1R
+Added Member To Class: ClassName=Power_toll Member=Component R2 1R
+Added Member To Class: ClassName=Power_toll Member=Component R3 1R
+Added Member To Class: ClassName=Power_toll Member=Component R4 1R
+Added Member To Class: ClassName=Power_toll Member=Component R5 1R
+Added Member To Class: ClassName=Power_toll Member=Component R6 1R
+Added Member To Class: ClassName=Power_toll Member=Component R7 1R
+Added Member To Class: ClassName=Power_toll Member=Component R8 1R
+Added Member To Class: ClassName=Power_toll Member=Component R9 1R
+Added Member To Class: ClassName=Power_toll Member=Component R10 1R
+Added Member To Class: ClassName=Power_toll Member=Component R11 1R
+Added Member To Class: ClassName=Power_toll Member=Component R12 1R

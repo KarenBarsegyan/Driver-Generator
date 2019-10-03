@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC_servo Pin=*2-3
+Removed Pin From Net: NetName=VCC Pin=C3-2
+Removed Pin From Net: NetName=VCC_servo Pin=C16-2
+Removed Pin From Net: NetName=VCC_servo Pin=C17-2
+Removed Pin From Net: NetName=VCC Pin=L1-2
+Removed Pin From Net: NetName=Net*1_3 Pin=L2-1
+Removed Pin From Net: NetName=VCC Pin=L2-2
+Removed Pin From Net: NetName=VCC Pin=R4-2
+Removed Member From Class: ClassName=driver_sapog_compact Member=L2
+Added Pin To Net: NetName=VCC_5 Pin=*2-3
+Added Pin To Net: NetName=Net*1_3 Pin=C3-2
+Added Pin To Net: NetName=VCC_5 Pin=C16-2
+Added Pin To Net: NetName=VCC_5 Pin=C17-2
+Added Pin To Net: NetName=Net*1_3 Pin=L1-2
+Added Pin To Net: NetName=Net*1_3 Pin=L3-2
+Added Pin To Net: NetName=Net*1_3 Pin=R4-2
+Change Net Name : Old Net Name=Net*1_3 New Net Name=12V

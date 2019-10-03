@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C2 Old Footprint=0805 New Footprint=1608[0603]
+Added Member To Class: ClassName=bug4 Member=Component C23 1uF
+Added Member To Class: ClassName=bug4 Member=Component C24 1uF
+Added Member To Class: ClassName=bug4 Member=Component C25 1uF
+Added Member To Class: ClassName=bug4 Member=Component C26 1uF
+Added Member To Class: ClassName=bug4 Member=Component C27 1uF
+Added Member To Class: ClassName=bug4 Member=Component C28 1uF
+Added Member To Class: ClassName=bug4 Member=Component C29 1uF

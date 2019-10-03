@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC_3.3 Pin=R202-1
+Removed Pin From Net: NetName=I2C_SCL Pin=R202-2
+Removed Pin From Net: NetName=VCC_3.3 Pin=R203-1
+Removed Pin From Net: NetName=I2C_SDA Pin=R203-2
+Removed Member From Class: ClassName=bug4 Member=R202
+Removed Member From Class: ClassName=bug4 Member=R203

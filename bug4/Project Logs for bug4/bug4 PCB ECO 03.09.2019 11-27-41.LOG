@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VCC_servo_5 Pin=D5-1
+Removed Pin From Net: NetName=GND Pin=DD1-1
+Removed Pin From Net: NetName=VCC_CAN Pin=DD1-4
+Removed Pin From Net: NetName=GND_OUT Pin=L2-2
+Removed Pin From Net: NetName=VCC_CAN Pin=R22-2
+Removed Pin From Net: NetName=VCC_3.3 Pin=R31-1
+Removed Pin From Net: NetName=NetOC3_1 Pin=XT9-1
+Removed Member From Class: ClassName=bug4 Member=DD1
+Removed Member From Class: ClassName=bug4 Member=L2
+Removed Member From Class: ClassName=bug4 Member=R22
+Removed Member From Class: ClassName=bug4 Member=R27
+Removed Member From Class: ClassName=bug4 Member=R28
+Removed Member From Class: ClassName=bug4 Member=R29
+Removed Member From Class: ClassName=bug4 Member=R30
+Removed Member From Class: ClassName=bug4 Member=R31
+Removed Member From Class: ClassName=bug4 Member=R33
+Removed Member From Class: ClassName=bug4 Member=R34
+Added Component: Designator=R38(SMT0603/VISHAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetOC3_1 Pin=R38-1
+Added Member To Class: ClassName=bug4 Member=Component R38 330
+Added Member To Class: ClassName=bug4 Member=Component R38 330
+Added Member To Class: ClassName=bug4 Member=Component R39 Res3
+Added Member To Class: ClassName=bug4 Member=Component R42 Res3
+Added Member To Class: ClassName=bug4 Member=Component R44 Res3

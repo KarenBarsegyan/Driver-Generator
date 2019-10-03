@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PB_3 Pin=PB_3-1
+Removed Pin From Net: NetName=PC_10 Pin=PC_10-1
+Removed Pin From Net: NetName=PD_2 Pin=PD_2-1
+Removed Member From Class: ClassName=driver_sapog_compact Member=PB_3
+Removed Member From Class: ClassName=driver_sapog_compact Member=PC_10
+Removed Member From Class: ClassName=driver_sapog_compact Member=PD_2

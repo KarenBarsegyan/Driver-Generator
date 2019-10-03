@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C2 Old Footprint=1608[0603] New Footprint=SMT0603/VISHAY
+Change Component Footprint: Designator=C22 Old Footprint=1608[0603] New Footprint=SMT0603/VISHAY
+Change Component Footprint: Designator=C23 Old Footprint=1608[0603] New Footprint=SMT0603/VISHAY
+Change Component Footprint: Designator=C24 Old Footprint=1608[0603] New Footprint=SMT0603/VISHAY
+Change Component Footprint: Designator=C25 Old Footprint=1608[0603] New Footprint=SMT0603/VISHAY
+Change Component Footprint: Designator=C26 Old Footprint=1608[0603] New Footprint=SMT0603/VISHAY
+Change Component Footprint: Designator=R16 Old Footprint=1608[0603] New Footprint=SMT0603/VISHAY
+Change Component Footprint: Designator=R17 Old Footprint=1608[0603] New Footprint=SMT0603/VISHAY
+Change Component Footprint: Designator=R18 Old Footprint=1608[0603] New Footprint=SMT0603/VISHAY
+Change Component Footprint: Designator=R22 Old Footprint=1608[0603] New Footprint=SMT0603/VISHAY
+Added Member To Class: ClassName=bug4 Member=Component *2 REG1117-5.0

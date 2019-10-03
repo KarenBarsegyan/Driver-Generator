@@ -1,0 +1,3 @@
+Added Component: Designator=ESC_1(power_terminal)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Power_toll Member=Component ESC_1 Component_1

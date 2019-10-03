@@ -1,0 +1,166 @@
+Added Component: Designator=*5(FDBL86563-F085)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*6(FDBL86563-F085)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*7(FDBL86563-F085)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*8(FDBL86563-F085)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*9(FDBL86563-F085)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*10(FDBL86563-F085)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*11(FDBL86563-F085)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*12(FDBL86563-F085)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*5-2
+Added Pin To Net: NetName=GND Pin=*5-3
+Added Pin To Net: NetName=GND Pin=*5-4
+Added Pin To Net: NetName=GND Pin=*5-5
+Added Pin To Net: NetName=GND Pin=*5-6
+Added Pin To Net: NetName=GND Pin=*5-7
+Added Pin To Net: NetName=GND Pin=*5-8
+Added Pin To Net: NetName=VCC Pin=*6-9
+Added Pin To Net: NetName=GND Pin=*7-2
+Added Pin To Net: NetName=GND Pin=*7-3
+Added Pin To Net: NetName=GND Pin=*7-4
+Added Pin To Net: NetName=GND Pin=*7-5
+Added Pin To Net: NetName=GND Pin=*7-6
+Added Pin To Net: NetName=GND Pin=*7-7
+Added Pin To Net: NetName=GND Pin=*7-8
+Added Pin To Net: NetName=VCC Pin=*8-9
+Added Pin To Net: NetName=GND Pin=*9-2
+Added Pin To Net: NetName=GND Pin=*9-3
+Added Pin To Net: NetName=GND Pin=*9-4
+Added Pin To Net: NetName=GND Pin=*9-5
+Added Pin To Net: NetName=GND Pin=*9-6
+Added Pin To Net: NetName=GND Pin=*9-7
+Added Pin To Net: NetName=GND Pin=*9-8
+Added Pin To Net: NetName=VCC Pin=*10-9
+Added Pin To Net: NetName=GND Pin=*11-2
+Added Pin To Net: NetName=GND Pin=*11-3
+Added Pin To Net: NetName=GND Pin=*11-4
+Added Pin To Net: NetName=GND Pin=*11-5
+Added Pin To Net: NetName=GND Pin=*11-6
+Added Pin To Net: NetName=GND Pin=*11-7
+Added Pin To Net: NetName=GND Pin=*11-8
+Added Pin To Net: NetName=VCC Pin=*12-9
+Added Pin To Net: NetName=HIGH_B Pin=R6-2
+Added Pin To Net: NetName=HIGH_B Pin=R8-2
+Added Net: Name=HIGH_B
+Added Pin To Net: NetName=HIGH_C Pin=R10-2
+Added Pin To Net: NetName=HIGH_C Pin=R12-2
+Added Net: Name=HIGH_C
+Added Pin To Net: NetName=LOW_B Pin=R5-2
+Added Pin To Net: NetName=LOW_B Pin=R7-2
+Added Net: Name=LOW_B
+Added Pin To Net: NetName=LOW_C Pin=R9-2
+Added Pin To Net: NetName=LOW_C Pin=R11-2
+Added Net: Name=LOW_C
+Added Pin To Net: NetName=Net*5_1 Pin=*5-1
+Added Pin To Net: NetName=Net*5_1 Pin=R5-1
+Added Net: Name=Net*5_1
+Added Pin To Net: NetName=Net*6_1 Pin=*6-1
+Added Pin To Net: NetName=Net*6_1 Pin=R6-1
+Added Net: Name=Net*6_1
+Added Pin To Net: NetName=Net*7_1 Pin=*7-1
+Added Pin To Net: NetName=Net*7_1 Pin=R7-1
+Added Net: Name=Net*7_1
+Added Pin To Net: NetName=Net*8_1 Pin=*8-1
+Added Pin To Net: NetName=Net*8_1 Pin=R8-1
+Added Net: Name=Net*8_1
+Added Pin To Net: NetName=Net*9_1 Pin=*9-1
+Added Pin To Net: NetName=Net*9_1 Pin=R9-1
+Added Net: Name=Net*9_1
+Added Pin To Net: NetName=Net*10_1 Pin=*10-1
+Added Pin To Net: NetName=Net*10_1 Pin=R10-1
+Added Net: Name=Net*10_1
+Added Pin To Net: NetName=Net*11_1 Pin=*11-1
+Added Pin To Net: NetName=Net*11_1 Pin=R11-1
+Added Net: Name=Net*11_1
+Added Pin To Net: NetName=Net*12_1 Pin=*12-1
+Added Pin To Net: NetName=Net*12_1 Pin=R12-1
+Added Net: Name=Net*12_1
+Added Pin To Net: NetName=PHASE_B Pin=*5-9
+Added Pin To Net: NetName=PHASE_B Pin=*6-2
+Added Pin To Net: NetName=PHASE_B Pin=*6-3
+Added Pin To Net: NetName=PHASE_B Pin=*6-4
+Added Pin To Net: NetName=PHASE_B Pin=*6-5
+Added Pin To Net: NetName=PHASE_B Pin=*6-6
+Added Pin To Net: NetName=PHASE_B Pin=*6-7
+Added Pin To Net: NetName=PHASE_B Pin=*6-8
+Added Pin To Net: NetName=PHASE_B Pin=*7-9
+Added Pin To Net: NetName=PHASE_B Pin=*8-2
+Added Pin To Net: NetName=PHASE_B Pin=*8-3
+Added Pin To Net: NetName=PHASE_B Pin=*8-4
+Added Pin To Net: NetName=PHASE_B Pin=*8-5
+Added Pin To Net: NetName=PHASE_B Pin=*8-6
+Added Pin To Net: NetName=PHASE_B Pin=*8-7
+Added Pin To Net: NetName=PHASE_B Pin=*8-8
+Added Net: Name=PHASE_B
+Added Pin To Net: NetName=PHASE_C Pin=*9-9
+Added Pin To Net: NetName=PHASE_C Pin=*10-2
+Added Pin To Net: NetName=PHASE_C Pin=*10-3
+Added Pin To Net: NetName=PHASE_C Pin=*10-4
+Added Pin To Net: NetName=PHASE_C Pin=*10-5
+Added Pin To Net: NetName=PHASE_C Pin=*10-6
+Added Pin To Net: NetName=PHASE_C Pin=*10-7
+Added Pin To Net: NetName=PHASE_C Pin=*10-8
+Added Pin To Net: NetName=PHASE_C Pin=*11-9
+Added Pin To Net: NetName=PHASE_C Pin=*12-2
+Added Pin To Net: NetName=PHASE_C Pin=*12-3
+Added Pin To Net: NetName=PHASE_C Pin=*12-4
+Added Pin To Net: NetName=PHASE_C Pin=*12-5
+Added Pin To Net: NetName=PHASE_C Pin=*12-6
+Added Pin To Net: NetName=PHASE_C Pin=*12-7
+Added Pin To Net: NetName=PHASE_C Pin=*12-8
+Added Net: Name=PHASE_C
+Added Member To Class: ClassName=Power_toll Member=Component *5 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *6 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *7 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *8 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *9 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *10 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *11 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component *12 FDBL86563-F085
+Added Member To Class: ClassName=Power_toll Member=Component R5 1R
+Added Member To Class: ClassName=Power_toll Member=Component R6 1R
+Added Member To Class: ClassName=Power_toll Member=Component R7 1R
+Added Member To Class: ClassName=Power_toll Member=Component R8 1R
+Added Member To Class: ClassName=Power_toll Member=Component R9 1R
+Added Member To Class: ClassName=Power_toll Member=Component R10 1R
+Added Member To Class: ClassName=Power_toll Member=Component R11 1R
+Added Member To Class: ClassName=Power_toll Member=Component R12 1R

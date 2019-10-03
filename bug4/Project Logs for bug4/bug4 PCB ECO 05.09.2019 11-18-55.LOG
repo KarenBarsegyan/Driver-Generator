@@ -1,0 +1,35 @@
+Change Component Comment : Designator=U1 Old Comment=3.3V New Comment=1.8V
+Change Component Designator: OldDesignator=*1 NewDesignator=5V_1
+Change Component Designator: OldDesignator=*2 NewDesignator=5V_2
+Change Component Designator: OldDesignator=*4 NewDesignator=3.3V
+Change Component Designator: OldDesignator=*5 NewDesignator=AD8495
+Change Component Designator: OldDesignator=CON1 NewDesignator=PROG
+Change Component Designator: OldDesignator=CON201 NewDesignator=1_UAVCAN
+Change Component Designator: OldDesignator=CON202 NewDesignator=2_UAVCAN
+Change Component Designator: OldDesignator=CON203 NewDesignator=3_UAVCAN
+Change Component Designator: OldDesignator=CON204 NewDesignator=4_UAVCAN
+Change Component Designator: OldDesignator=DA1 NewDesignator=TPS54360
+Change Component Designator: OldDesignator=IC200 NewDesignator=1_CAN_transiver
+Change Component Designator: OldDesignator=IC202 NewDesignator=2_CAN_transiver
+Change Component Designator: OldDesignator=P1 NewDesignator=50V
+Change Component Designator: OldDesignator=U1 NewDesignator=1.8V
+Change Component Designator: OldDesignator=XT4 NewDesignator=COOLER
+Change Component Designator: OldDesignator=XT5 NewDesignator=ESC
+Change Component Designator: OldDesignator=XT6 NewDesignator=SERVO
+Change Component Designator: OldDesignator=XT7 NewDesignator=IGNITION
+Added Component: Designator=BQ1(HS49/S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PackageReference"; Value = "hs_49u"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net*5_1 New Net Name=NetAD8495_1
+Change Net Name : Old Net Name=Net*5_8 New Net Name=NetAD8495_8
+Change Net Name : Old Net Name=NetCON201_2 New Net Name=Net1_CAN_transiver_7
+Change Net Name : Old Net Name=NetCON201_3 New Net Name=Net1_CAN_transiver_6
+Change Net Name : Old Net Name=NetCON203_2 New Net Name=Net2_CAN_transiver_7
+Change Net Name : Old Net Name=NetCON203_3 New Net Name=Net2_CAN_transiver_6
+Change Net Name : Old Net Name=NetDA1_3 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetDA1_4 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetDA1_5 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetOC1_6 New Net Name=NetESC_1
+Change Net Name : Old Net Name=NetOC1_7 New Net Name=NetCOOLER_1
+Change Net Name : Old Net Name=NetR28_2 New Net Name=NetIGNITION_1
+Added Member To Class: ClassName=bug4 Member=Component BQ1 HC49/S

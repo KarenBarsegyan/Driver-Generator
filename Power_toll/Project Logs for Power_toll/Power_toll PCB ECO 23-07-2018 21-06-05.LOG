@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=Net*3_2 Pin=*1-2
+Added Pin To Net: NetName=Net*3_2 Pin=*1-3
+Added Pin To Net: NetName=Net*3_2 Pin=*1-4
+Added Pin To Net: NetName=Net*3_2 Pin=*1-5
+Added Pin To Net: NetName=Net*3_2 Pin=*1-6
+Added Pin To Net: NetName=Net*3_2 Pin=*1-7
+Added Pin To Net: NetName=Net*3_2 Pin=*1-8
+Change Net Name : Old Net Name=Net*3_2 New Net Name=GND

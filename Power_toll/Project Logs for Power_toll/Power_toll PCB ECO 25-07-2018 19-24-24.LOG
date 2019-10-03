@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Added Pin To Net: NetName=LOW_B Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=HIGH_B Pin=P2-3
+Added Pin To Net: NetName=PHASE_B Pin=P2-4
+Added Pin To Net: NetName=LOW_C Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=HIGH_C Pin=P3-3
+Added Pin To Net: NetName=PHASE_C Pin=P3-4
+Added Member To Class: ClassName=Power_toll Member=Component P1 Header 4
+Added Member To Class: ClassName=Power_toll Member=Component P3 Header 4

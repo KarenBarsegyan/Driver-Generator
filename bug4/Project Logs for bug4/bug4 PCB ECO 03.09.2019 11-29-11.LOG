@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R32 NewDesignator=R26
+Change Component Designator: OldDesignator=R35 NewDesignator=R27
+Change Component Designator: OldDesignator=R36 NewDesignator=R28
+Change Component Designator: OldDesignator=R37 NewDesignator=R29
+Change Component Designator: OldDesignator=R38 NewDesignator=R30
+Change Component Designator: OldDesignator=R38 NewDesignator=R32
+Change Component Designator: OldDesignator=R39 NewDesignator=R31
+Change Component Designator: OldDesignator=R40 NewDesignator=R33
+Change Component Designator: OldDesignator=R41 NewDesignator=R34
+Change Component Designator: OldDesignator=R42 NewDesignator=R35
+Change Component Designator: OldDesignator=R43 NewDesignator=R36
+Change Component Designator: OldDesignator=R44 NewDesignator=R37
+Change Net Name : Old Net Name=NetR38_2 New Net Name=NetR30_2
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=XT9-1
+Added Net: Name=NetR32_2
+Added Member To Class: ClassName=bug4 Member=Component R32 330

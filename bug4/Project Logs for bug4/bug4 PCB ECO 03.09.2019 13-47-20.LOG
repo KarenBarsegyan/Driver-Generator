@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=VCC_1.8 Pin=IC201-22
+Change Net Name : Old Net Name=VCC_1.8 New Net Name=VBAT_SENSE

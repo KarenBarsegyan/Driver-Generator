@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=1 NewDesignator=IRF7105
+Added Component: Designator=BQ1(HS49/S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PackageReference"; Value = "hs_49u"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net1_2 New Net Name=NetIRF7105_2
+Change Net Name : Old Net Name=Net1_4 New Net Name=NetIRF7105_4
+Change Net Name : Old Net Name=Net1_5 New Net Name=NetIGNITION_2
+Change Net Name : Old Net Name=Net1_7 New Net Name=NetIGNITION_3
+Added Member To Class: ClassName=bug4 Member=Component BQ1 HC49/S

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC_3.3 Pin=R37-1
+Removed Pin From Net: NetName=VCC_CAN Pin=R38-2
+Removed Pin From Net: NetName=VCC_3.3 Pin=R42-1
+Removed Pin From Net: NetName=USART1_TX_inside Pin=R44-1
+Removed Pin From Net: NetName=GND Pin=R48-1
+Removed Pin From Net: NetName=USART1_RX_inside Pin=R52-1
+Removed Pin From Net: NetName=VCC_3.3 Pin=R52-2
+Removed Pin From Net: NetName=VCC_3.3 Pin=R54-2
+Removed Member From Class: ClassName=bug4 Member=R37
+Removed Member From Class: ClassName=bug4 Member=R38
+Removed Member From Class: ClassName=bug4 Member=R42
+Removed Member From Class: ClassName=bug4 Member=R44
+Removed Member From Class: ClassName=bug4 Member=R48
+Removed Member From Class: ClassName=bug4 Member=R51
+Removed Member From Class: ClassName=bug4 Member=R52
+Removed Member From Class: ClassName=bug4 Member=R54

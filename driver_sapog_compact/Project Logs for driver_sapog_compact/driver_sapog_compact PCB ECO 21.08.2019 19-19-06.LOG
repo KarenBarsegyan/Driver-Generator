@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=PWM_ext Pin=*4-6
+Removed Pin From Net: NetName=Net*4_7 Pin=R21-1
+Removed Pin From Net: NetName=VCC_5 Pin=R21-2
+Removed Pin From Net: NetName=PWM_ext Pin=R22-1
+Removed Pin From Net: NetName=VCC_3.3 Pin=R22-2
+Change Component Footprint: Designator=R21 Old Footprint=SMT0603/VISHAY New Footprint=1608[0603]
+Change Component Footprint: Designator=R22 Old Footprint=SMT0603/VISHAY New Footprint=1608[0603]
+Change Component Comment : Designator=R22 Old Comment=1k New Comment=2.2k
+Change Component Designator: OldDesignator=C23 NewDesignator=C22
+Change Component Designator: OldDesignator=C24 NewDesignator=C23
+Change Component Designator: OldDesignator=C25 NewDesignator=C24
+Change Component Designator: OldDesignator=C26 NewDesignator=C25
+Change Component Designator: OldDesignator=C27 NewDesignator=C26
+Change Component Designator: OldDesignator=C28 NewDesignator=C27
+Change Component Designator: OldDesignator=C29 NewDesignator=C28
+Change Component Designator: OldDesignator=C30 NewDesignator=C29
+Change Component Designator: OldDesignator=C31 NewDesignator=C30
+Change Component Designator: OldDesignator=C32 NewDesignator=C31
+Change Component Designator: OldDesignator=C33 NewDesignator=C32
+Change Component Designator: OldDesignator=L3 NewDesignator=L2
+Change Component Designator: OldDesignator=L4 NewDesignator=L3
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Change Component Designator: OldDesignator=P7 NewDesignator=P6
+Change Component Designator: OldDesignator=P8 NewDesignator=P7
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change component parameters: Designator = "R21"; Footprint = "1608[0603]"; UniqueID = "\XYEEOXTN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "1608[0603]"; UniqueID = "\RPSHHGLD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C33(SMT0603/VISHAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/2N%2F2N3904.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "15-Jan-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint 'BCY-W3/D4.7' replaced"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.5mm; Leads 0.51 x 0.48 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R20(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DIGIKEY#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF#"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*4_3 Pin=C33-1
+Added Pin To Net: NetName=Net*4_2 Pin=C33-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=PWM_ext Pin=Q2-3
+Added Pin To Net: NetName=VCC_3.3 Pin=R20-1
+Added Pin To Net: NetName=PWM_ext Pin=R20-2
+Added Pin To Net: NetName=VCC_5 Pin=R21-1
+Added Pin To Net: NetName=Net*4_7 Pin=R21-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R22-1
+Change Net Name : Old Net Name=NetP7_3 New Net Name=NetP6_3
+Added Pin To Net: NetName=Net*4_6 Pin=*4-6
+Added Pin To Net: NetName=Net*4_6 Pin=Q2-1
+Added Pin To Net: NetName=Net*4_6 Pin=R22-2
+Added Net: Name=Net*4_6
+Added Member To Class: ClassName=driver_sapog_compact Member=Component C33 0.1
+Added Member To Class: ClassName=driver_sapog_compact Member=Component Q2 BFS17A
+Added Member To Class: ClassName=driver_sapog_compact Member=Component R20 2.2k

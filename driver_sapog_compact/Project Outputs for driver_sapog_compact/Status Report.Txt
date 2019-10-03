@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [driver_sapog_compact.PrjPCB]
+   Generated File[driver_sapog_compact.TXT]
+   Generated File[driver_sapog_compact.LDP]
+   Generated File[driver_sapog_compact.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 0:32:34 On 26.08.2019

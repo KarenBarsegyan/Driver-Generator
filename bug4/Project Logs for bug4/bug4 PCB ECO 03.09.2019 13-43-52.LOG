@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=XT4 Old Footprint=PLT-3T New Footprint=PCBComponent_1
+Change Component Footprint: Designator=XT5 Old Footprint=PLT-3T New Footprint=PCBComponent_1
+Change Component Footprint: Designator=XT6 Old Footprint=PLT-3T New Footprint=PCBComponent_1
+Change Component Footprint: Designator=XT7 Old Footprint=PLT-3T New Footprint=PCBComponent_1
+Change Component Footprint: Designator=XT8 Old Footprint=PLT-3T New Footprint=PCBComponent_1
+Added Member To Class: ClassName=bug4 Member=Component C20 0.1
+Added Member To Class: ClassName=bug4 Member=Component C21 0.1

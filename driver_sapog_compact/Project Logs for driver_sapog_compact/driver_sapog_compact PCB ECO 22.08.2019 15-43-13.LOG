@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Q0 Pin=BQ1-1
+Removed Pin From Net: NetName=OSC_IN_STM Pin=BQ1-2
+Change Component Comment : Designator=C12 Old Comment=18pF New Comment=10pF
+Change Component Comment : Designator=C13 Old Comment=18pF New Comment=10pF

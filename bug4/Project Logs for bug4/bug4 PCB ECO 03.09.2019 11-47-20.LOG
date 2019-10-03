@@ -1,0 +1,56 @@
+Change Component Designator: OldDesignator=*1_1 NewDesignator=*4
+Change Component Designator: OldDesignator=C1_1 NewDesignator=C20
+Change Component Designator: OldDesignator=C2_1 NewDesignator=C21
+Change Component Designator: OldDesignator=C3_1 NewDesignator=C22
+Change Component Designator: OldDesignator=C4_1 NewDesignator=C23
+Change Component Designator: OldDesignator=C5_1 NewDesignator=C24
+Change Component Designator: OldDesignator=IN-  IN+1_1 NewDesignator=IN-  IN+1
+Change Component Designator: OldDesignator=Q1_1 NewDesignator=Q1
+Change Component Designator: OldDesignator=R1_1 NewDesignator=R16
+Change Component Designator: OldDesignator=R2_1 NewDesignator=R17
+Change Component Designator: OldDesignator=R3_1 NewDesignator=R18
+Change Component Designator: OldDesignator=R4_1 NewDesignator=R22
+Added Pin To Net: NetName=Net*4_1 Pin=*4-1
+Added Pin To Net: NetName=IBAT Pin=*4-2
+Added Pin To Net: NetName=GND Pin=*4-3
+Added Pin To Net: NetName=IGEN Pin=*4-5
+Added Pin To Net: NetName=IGEN Pin=*4-6
+Added Pin To Net: NetName=VCC Pin=*4-7
+Added Pin To Net: NetName=Net*4_8 Pin=*4-8
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=Net*4_1 Pin=C20-2
+Added Pin To Net: NetName=Net*4_1 Pin=C21-1
+Added Pin To Net: NetName=Net*4_8 Pin=C21-2
+Added Pin To Net: NetName=Net*4_8 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=VCC Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=VCC Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=NetIN-  IN+1_1 Pin=IN-  IN+1-1
+Added Pin To Net: NetName=NetIN-  IN+1_2 Pin=IN-  IN+1-2
+Added Pin To Net: NetName=IBAT Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=IBAT Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetIN-  IN+1_2 Pin=R16-2
+Added Pin To Net: NetName=NetIN-  IN+1_2 Pin=R17-1
+Added Pin To Net: NetName=Net*4_1 Pin=R17-2
+Added Pin To Net: NetName=NetIN-  IN+1_1 Pin=R18-1
+Added Pin To Net: NetName=Net*4_8 Pin=R18-2
+Added Pin To Net: NetName=IBAT Pin=R22-1
+Added Pin To Net: NetName=VCC Pin=R22-2
+Added Member To Class: ClassName=bug4 Member=Component *4 AD8495
+Added Member To Class: ClassName=bug4 Member=Component C20 0.01
+Added Member To Class: ClassName=bug4 Member=Component C21 0.1
+Added Member To Class: ClassName=bug4 Member=Component C22 0.01
+Added Member To Class: ClassName=bug4 Member=Component C23 0.1
+Added Member To Class: ClassName=bug4 Member=Component C24 1uF
+Added Member To Class: ClassName=bug4 Member=Component IN-  IN+1 X977B02
+Added Member To Class: ClassName=bug4 Member=Component Q1 BC848
+Added Member To Class: ClassName=bug4 Member=Component R16 1M
+Added Member To Class: ClassName=bug4 Member=Component R17 100R
+Added Member To Class: ClassName=bug4 Member=Component R18 100R
+Added Member To Class: ClassName=bug4 Member=Component R22 1k
+Added Member To Class: ClassName=bug4 Member=Component R34 Res3
+Added Member To Class: ClassName=bug4 Member=Component XT8 PLT-3

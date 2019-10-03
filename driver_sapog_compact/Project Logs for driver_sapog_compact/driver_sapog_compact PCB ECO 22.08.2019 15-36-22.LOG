@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=SENSE_A Pin=IC201-15
+Removed Pin From Net: NetName=SENSE_C Pin=IC201-17
+Removed Pin From Net: NetName=FET_A_H Pin=R11-2
+Removed Pin From Net: NetName=FET_A_L Pin=R12-2
+Removed Pin From Net: NetName=FET_A_L Pin=R14-2
+Removed Pin From Net: NetName=FET_C_H Pin=R21-2
+Removed Pin From Net: NetName=FET_C_L Pin=R22-2
+Removed Pin From Net: NetName=FET_C_L Pin=R25-2
+Added Pin To Net: NetName=SENSE_C Pin=IC201-15
+Added Pin To Net: NetName=SENSE_A Pin=IC201-17
+Added Pin To Net: NetName=FET_C_H Pin=R11-2
+Added Pin To Net: NetName=FET_C_L Pin=R12-2
+Added Pin To Net: NetName=FET_C_L Pin=R14-2
+Added Pin To Net: NetName=FET_A_H Pin=R21-2
+Added Pin To Net: NetName=FET_A_L Pin=R22-2
+Added Pin To Net: NetName=FET_A_L Pin=R25-2
+Change Net Name : Old Net Name=GND_A New Net Name=GND_C
+Change Net Name : Old Net Name=GND_C New Net Name=GND_A
+Change Net Name : Old Net Name=HO_A New Net Name=HO_C
+Change Net Name : Old Net Name=HO_C New Net Name=HO_A
+Change Net Name : Old Net Name=LO_A New Net Name=LO_C
+Change Net Name : Old Net Name=LO_C New Net Name=LO_A
+Change Net Name : Old Net Name=PHASE_A New Net Name=PHASE_C
+Change Net Name : Old Net Name=PHASE_C New Net Name=PHASE_A
+Change Net Name : Old Net Name=SENSE_A New Net Name=SENSE_C
+Change Net Name : Old Net Name=SENSE_C New Net Name=SENSE_A

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TachoInF Pin=IC201-40
+Removed Pin From Net: NetName=ThrottlePWM Pin=IC201-41
+Added Pin To Net: NetName=ThrottlePWM Pin=IC201-40
+Added Pin To Net: NetName=TachoInF Pin=IC201-41

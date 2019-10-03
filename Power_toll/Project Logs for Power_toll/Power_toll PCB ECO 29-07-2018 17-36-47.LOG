@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LOW_C Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=HIGH_C Pin=P3-3
+Removed Pin From Net: NetName=PHASE_C Pin=P3-4
+Added Pin To Net: NetName=HIGH_C Pin=P3-1
+Added Pin To Net: NetName=PHASE_C Pin=P3-2
+Added Pin To Net: NetName=LOW_C Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Member To Class: ClassName=Power_toll Member=Component C16 1uF 100V
