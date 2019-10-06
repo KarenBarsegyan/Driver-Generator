@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=50V Old Footprint=XT-30PW New Footprint=HEADER 2 PW
+Added Pin To Net: NetName=GND Pin=50V-A
+Added Pin To Net: NetName=GND Pin=50V-A

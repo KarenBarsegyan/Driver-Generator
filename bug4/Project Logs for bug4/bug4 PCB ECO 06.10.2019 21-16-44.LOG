@@ -1,0 +1,50 @@
+Change Component Footprint: Designator=50V Old Footprint=XT-30PW New Footprint=HEADER 2 PW
+Change Component Comment : Designator=C1 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C2 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C5 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C8 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C9 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C10 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C11 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C12 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C13 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C16 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C17 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C18 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C19 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C20 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C22 Old Comment=0.01uF New Comment=0.01
+Change Component Comment : Designator=C23 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=C25 Old Comment=0.1uF New Comment=0.1
+Change Component Comment : Designator=R5 Old Comment=0R New Comment=1210
+Change Component Comment : Designator=R19 Old Comment=2k New Comment=Res3
+Change Component Comment : Designator=R20 Old Comment=2k New Comment=Res3
+Change Component Comment : Designator=R24 Old Comment=2k New Comment=Res3
+Change Component Comment : Designator=R27 Old Comment=2k New Comment=Res3
+Change Component Comment : Designator=R29 Old Comment=2k New Comment=Res3
+Change Component Comment : Designator=R31 Old Comment=2k New Comment=Res3
+Change Component Comment : Designator=R32 Old Comment=2k New Comment=Res3
+Change Component Comment : Designator=R34 Old Comment=2k New Comment=Res3
+Change Component Comment : Designator=C21 Old Comment=4.7uF New Comment=0.1
+Change Component Comment : Designator=R11 Old Comment=6.8k New Comment=4.7k
+Change Component Comment : Designator=R21 Old Comment=10k New Comment=330
+Change Component Comment : Designator=R23 Old Comment=10k New Comment=330
+Change Component Comment : Designator=R25 Old Comment=10k New Comment=330
+Change Component Comment : Designator=R26 Old Comment=10k New Comment=330
+Change Component Comment : Designator=R28 Old Comment=10k New Comment=330
+Change Component Comment : Designator=R30 Old Comment=10k New Comment=330
+Change Component Comment : Designator=C24 Old Comment=100nF New Comment=0.01
+Change Component Comment : Designator=C3 Old Comment=100uF New Comment=1206
+Change Component Comment : Designator=R33 Old Comment=200R New Comment=Res3
+Change Component Comment : Designator=R35 Old Comment=200R New Comment=Res3
+Change Component Comment : Designator=VD1 Old Comment=GREEN New Comment=KP-1608SRC-PRV/KINGBRIGHT
+Change Component Comment : Designator=50V Old Comment=Header 4 New Comment=Conn2x1
+Change Component Comment : Designator=VD2 Old Comment=RED New Comment=KP-1608SRC-PRV/KINGBRIGHT
+Change component parameters: Designator = "50V"; Footprint = "HEADER 2 PW"; UniqueID = "\TBUDHDRQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AliExpress"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ru.aliexpress.com/item/4000070113352.html?spm=a2g0o.productlist.0.0.39dd34bfyYuspa&algo_pvid=4d7d83f5-6270-4220-b100-9b5f13b0846d&algo_expid=4d7d83f5-6270-4220-b100-9b5f13b0846d-3&btsid=c67bc929-e3be-4af3-9fd9-25ac13ce4818&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "XT30PW"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=OVER_T New Net Name=NetIC201_8
+Change Net Name : Old Net Name=VBAT_SENSE New Net Name=1.8V
+Added Room: Name=bug4
